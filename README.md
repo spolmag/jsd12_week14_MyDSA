@@ -9,7 +9,8 @@ The goal of this project is to understand how to efficiently manipulate and quer
 ## Project Structure
 
 - `jojo.js`: Contains the sample dataset of characters (`jojoCharacters`).
-- `exercise.js`: The implementation file where the array methods are applied.
+- `exercise_1.js`: Implementation file for practice exercises.
+- `exercise_2.js`: Additional practice exercises.
 - `my-understanding.md`: Personal notes on sorting algorithms, binary search, and array methods.
 
 ## Methods Covered
@@ -20,10 +21,11 @@ The goal of this project is to understand how to efficiently manipulate and quer
 
 ## How to Run
 
-To see the results of the exercises, run the `exercise.js` file using Node.js:
+To see the results of the exercises, run the files using Node.js:
 
 ```bash
-node exercise.js
+node exercise_1.js
+node exercise_2.js
 ```
 
 ---
